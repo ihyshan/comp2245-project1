@@ -10,12 +10,6 @@ body {
     width: 100%;
 }
 
-.responsive-image {
-    max-width: 100%;
-    height: auto;
-    width: 300px; /* Adjust the width as desired */
-}
-
 header {
     background-color: white;
     padding: 1rem 0;
